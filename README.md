@@ -551,7 +551,7 @@ Epoch \[10/10\] Train Loss: 0.3592, Train Acc: 86.99% Val Loss: 0.3157, Val Acc:
 
 
 
-![](images/Picture5.jpg)
+![](images/Picture5.png)
 
 
 

@@ -28,6 +28,10 @@ Deep Learning-Based Nail Disease Detection using CNN with Spatial Attention
 
 **ภาพรวมสถาปัตยกรรม**
 
+
+![](images/Picture1.jpg)
+
+
 **Activation Function:**
 
 ใช้ ReLU ใน ResNet และ Sigmoid ใน Attention Module เพื่อสร้างค่าความสนใจระหว่าง 0-1
@@ -532,6 +536,24 @@ Epoch \[8/10\] Train Loss: 0.3787, Train Acc: 86.08% Val Loss: 0.2438, Val Acc: 
 Epoch \[9/10\] Train Loss: 0.3232, Train Acc: 88.33% Val Loss: 0.3461, Val Acc: 89.01%
 
 Epoch \[10/10\] Train Loss: 0.3592, Train Acc: 86.99% Val Loss: 0.3157, Val Acc: 86.81%
+
+
+![](images/Picture2.jpg)
+
+
+
+
+![](images/Picture3.jpg)
+
+
+
+![](images/Picture4.jpg)
+
+
+
+![](images/Picture5.jpg)
+
+
 
 Metrics ที่ใช้ประเมิน:
 
